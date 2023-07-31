@@ -1,0 +1,137 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #f3fbf9;
+  font-family: Andale Mono, monospace;
+}
+
+.container {
+  padding: 3%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.navColor {
+  background-color: #22577A;
+  border-bottom: 3px solid white;
+}
+
+.title {
+  font-weight: bold;
+  color: white;
+}
+
+h1,
+h2,
+h3,
+h5,
+.title {}
+
+h1 {
+  text-align: center;
+  background-color: #92374D;
+  color: white;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-right: 30%;
+  margin-left: 30%;
+}
+
+.red {
+  background-color: #92374D;
+}
+
+h2 {
+  text-align: center;
+}
+
+.technicican {
+  text-align: center;
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-top: 2%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  color: black;
+
+}
+
+.quizMargin {
+  margin-left: 7%;
+  margin-right: 7%;
+  padding: 2%;
+  background-color: #e2acb9;
+}
+
+h5 {
+  color: white;
+}
+
+.carousel {
+  padding: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 75%;
+}
+
+.carousel-caption {
+  background-color: #92374D;
+  color: white;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 1%;
+  padding-left: 1%;
+}
+
+.about {
+  background-color: #92374D;
+  color: white;
+  padding-right: 20%;
+  padding-left: 20%;
+  text-align: center;
+}
+
+.techJobQuiz {
+  background-color: #92374D;
+  color: white;
+  padding: 1%;
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: center;
+}
+
+.slogan {
+  text-align: center;
+  padding: 2%;
+  font-style: italic;
+}
+
+.btn {
+  background-color: #22577A;
+  color: white;
+  text-align: center;
+}
+
+.cards {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.centerT {
+  text-align: center;
+}
+
+.navbar-brand:hover {
+  color: white;
+}
+
+/* https://coolors.co/331832-22577a-f0544f-c6d8d3-fdf0d5 */
